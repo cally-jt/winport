@@ -72,5 +72,5 @@ function getIcons() {
     const desktop = getElement("desktop")
     const icons = desktop.querySelectorAll("div")
 
-    return icons
+    return icons;
 }
